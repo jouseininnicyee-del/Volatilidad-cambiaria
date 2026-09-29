@@ -2,3 +2,5 @@ Plaintext
 streamlit
 google-genai
 numpy
+pandas
+matplotlib
